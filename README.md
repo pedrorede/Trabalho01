@@ -40,6 +40,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     [Grupo01]: [Nomes dos que participaram na avaliação]
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
+### ENTREGA 01 - DATA: 18/009/2017 <br>
+
 #### 5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
     
