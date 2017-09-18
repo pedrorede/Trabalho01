@@ -40,8 +40,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     [Grupo01]: [Nomes dos que participaram na avaliação]
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
-### ENTREGA 01 - DATA: 18/009/2017 <br>
-
 #### 5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
     
@@ -70,7 +68,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) obtenção de códigos reutilizados
         c) fontes de estudo para desenvolvimento do projeto
 
-## Entrega até este ponto em (18/09/2017)
+## Entrega até este ponto em (20/09/2017)
         
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
