@@ -101,3 +101,6 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 
 #### Link para BrModelo:
 http://sis4.com/brModelo/brModelo/download.html
+#### Link para Download do Mysql
+https://dev.mysql.com/downloads/file/?id=471661
+https://dev.mysql.com/downloads/windows/installer/5.7.html
