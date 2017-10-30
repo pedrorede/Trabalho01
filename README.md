@@ -88,16 +88,16 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
-#### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
-        Entrega até este ponto em (data a ser definida)
-        
+#### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>      
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
 #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
-### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
-### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-        Entrega até este ponto em (data a ser definida)
+## Entrega até este ponto em (13/11/2017)
+        
+### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES (Apresentação Final) <br>
+### 11	DIFICULDADES ENCONTRADAS PELO GRUPO (1 Slide) <br>
+## Entrega até este ponto em (28/11/2017)
         
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
